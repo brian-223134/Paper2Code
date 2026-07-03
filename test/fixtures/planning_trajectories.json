@@ -1,0 +1,11 @@
+[
+  {"role": "system", "content": "you are a planner"},
+  {"role": "user", "content": "plan this paper"},
+  {"role": "assistant", "content": "<think>hmm</think>OVERALL PLAN TEXT"},
+  {"role": "user", "content": "now design"},
+  {"role": "assistant", "content": "ARCH DESIGN TEXT"},
+  {"role": "user", "content": "now logic"},
+  {"role": "assistant", "content": "LOGIC DESIGN TEXT"},
+  {"role": "user", "content": "extra turn"},
+  {"role": "assistant", "content": "FOURTH ASSISTANT (should be dropped by [:3])"}
+]
