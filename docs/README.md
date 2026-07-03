@@ -11,6 +11,7 @@
 | [03-directory.md](03-directory.md) | 디렉토리·파일 구조 설명 |
 | [04-usage.md](04-usage.md) | 설치 및 실행 방법 |
 | [05-evaluation.md](05-evaluation.md) | 생성 저장소 평가(모델 기반) 방법 |
+| [06-reproduction-gap.md](06-reproduction-gap.md) | 실제 실험 재현에 추가로 필요한 것(Gap 분석) |
 
 ## 한 줄 요약
 
